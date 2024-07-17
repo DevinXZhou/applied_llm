@@ -2,6 +2,7 @@
 
 ## embeddings
 • Compute sentence similarity score using openAI embeddings
+
 • Compare all available embeddings
 
 ## multimodal
