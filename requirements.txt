@@ -4,3 +4,4 @@ python_weather==2.0.3
 tiktoken==0.6.0
 numpy
 sentence-transformers
+transformers
