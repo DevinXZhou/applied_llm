@@ -6,6 +6,7 @@
 • Compare all available embeddings
 
 ## multimodal
+• Using CLIP Embedding to perform unsupervised clustering
 
 ## transformer
 • Script that trains a Chinese to English translator
