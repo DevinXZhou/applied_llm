@@ -17,3 +17,11 @@ This notebook showcase Python code on how to use openAI API
 • Build chatbot using chat complete
 
 • Build agent tool to perform function calls
+
+## Generative Models
+
+• Name generator. Basic language generative model, taught by Andrej Karpathy
+
+## llm_training
+
+• DCLM (Apple) open sourced repository. Can be used as a tool to process datasets, launch LLM trainings using AWS SageMaker.
