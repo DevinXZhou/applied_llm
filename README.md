@@ -23,6 +23,7 @@ This notebook showcase Python code on how to use openAI API
 model training practices taught by Andrej Karpathy
 
 • Name generator 1. Basic language generative model
+
 • Name generator 2. Using embeddings, from paper MLP - bengio 2003
 
 ## llm_training
