@@ -18,9 +18,12 @@ This notebook showcase Python code on how to use openAI API
 
 • Build agent tool to perform function calls
 
-## Generative Models
+## genAI Basics
 
-• Name generator. Basic language generative model, taught by Andrej Karpathy
+model training practices taught by Andrej Karpathy
+
+• Name generator 1. Basic language generative model
+• Name generator 2. Using embeddings, from paper MLP - bengio 2003
 
 ## llm_training
 
